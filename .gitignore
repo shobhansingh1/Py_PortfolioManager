@@ -1,2 +1,3 @@
 # Ignore data cache file
 data.p
+.ipynb_checkpoints
